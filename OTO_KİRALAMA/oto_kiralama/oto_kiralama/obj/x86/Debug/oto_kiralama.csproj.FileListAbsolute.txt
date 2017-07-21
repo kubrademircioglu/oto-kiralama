@@ -1,0 +1,39 @@
+c:\users\samsung\documents\visual studio 2010\Projects\oto_kiralama\oto_kiralama\bin\Debug\oto_kiralama.exe
+c:\users\samsung\documents\visual studio 2010\Projects\oto_kiralama\oto_kiralama\bin\Debug\oto_kiralama.pdb
+c:\users\samsung\documents\visual studio 2010\Projects\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.Properties.Resources.resources
+c:\users\samsung\documents\visual studio 2010\Projects\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.csproj.GenerateResource.Cache
+c:\users\samsung\documents\visual studio 2010\Projects\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.exe
+c:\users\samsung\documents\visual studio 2010\Projects\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.pdb
+c:\users\samsung\documents\visual studio 2010\Projects\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.adminyetkileri.resources
+c:\users\samsung\documents\visual studio 2010\Projects\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.Form1.resources
+c:\users\samsung\documents\visual studio 2010\Projects\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.Kullanici_eklemecs.resources
+c:\users\samsung\documents\visual studio 2010\Projects\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.Kullanici_sifre_degis.resources
+c:\users\samsung\documents\visual studio 2010\Projects\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.Kullanici_silme.resources
+c:\users\samsung\documents\visual studio 2010\Projects\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.Kullanici_ad_degis.resources
+c:\users\samsung\documents\visual studio 2010\Projects\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.Kullanici_yetkileri.resources
+c:\users\samsung\documents\visual studio 2010\Projects\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.Müşteri_Anasayfa.resources
+c:\users\samsung\documents\visual studio 2010\Projects\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.Arac_ekle.resources
+c:\users\samsung\documents\visual studio 2010\Projects\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.Arac_silme.resources
+c:\users\samsung\documents\visual studio 2010\Projects\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.kayit_bilgileri.resources
+c:\users\samsung\documents\visual studio 2010\Projects\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.csproj.ResolveComReference.cache
+c:\users\samsung\documents\visual studio 2010\Projects\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.arac_guncelleme.resources
+C:\Users\Samsung\Documents\Visual Studio 2010\Projects\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.Kullanici_sifre_degistirme.resources
+F:\OTO_KİRALAMA\oto_kiralama\oto_kiralama\bin\Debug\oto_kiralama.exe.config
+F:\OTO_KİRALAMA\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.csproj.ResolveComReference.cache
+F:\OTO_KİRALAMA\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.exe
+F:\OTO_KİRALAMA\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.pdb
+F:\OTO_KİRALAMA\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.adminyetkileri.resources
+F:\OTO_KİRALAMA\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.Arac_ekle.resources
+F:\OTO_KİRALAMA\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.arac_guncelleme.resources
+F:\OTO_KİRALAMA\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.Arac_silme.resources
+F:\OTO_KİRALAMA\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.Form1.resources
+F:\OTO_KİRALAMA\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.kayit_bilgileri.resources
+F:\OTO_KİRALAMA\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.Kullanici_ad_degis.resources
+F:\OTO_KİRALAMA\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.Kullanici_eklemecs.resources
+F:\OTO_KİRALAMA\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.Kullanici_sifre_degis.resources
+F:\OTO_KİRALAMA\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.Kullanici_sifre_degistirme.resources
+F:\OTO_KİRALAMA\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.Kullanici_silme.resources
+F:\OTO_KİRALAMA\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.Kullanici_yetkileri.resources
+F:\OTO_KİRALAMA\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.Müşteri_Anasayfa.resources
+F:\OTO_KİRALAMA\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.Properties.Resources.resources
+F:\OTO_KİRALAMA\oto_kiralama\oto_kiralama\obj\x86\Debug\oto_kiralama.csproj.GenerateResource.Cache

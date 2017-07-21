@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B7EB766D-2AE3-4517-AED4-6A982F0DE40F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>oto_kiralama</RootNamespace>
+    <AssemblyName>oto_kiralama</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adminyetkileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminyetkileri.Designer.cs">
+      <DependentUpon>adminyetkileri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Arac_ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arac_ekle.Designer.cs">
+      <DependentUpon>Arac_ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="arac_guncelleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="arac_guncelleme.Designer.cs">
+      <DependentUpon>arac_guncelleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Arac_silme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arac_silme.Designer.cs">
+      <DependentUpon>Arac_silme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kayit_bilgileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kayit_bilgileri.Designer.cs">
+      <DependentUpon>kayit_bilgileri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kullanici_ad_degis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kullanici_ad_degis.Designer.cs">
+      <DependentUpon>Kullanici_ad_degis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kullanici_eklemecs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kullanici_eklemecs.Designer.cs">
+      <DependentUpon>Kullanici_eklemecs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kullanici_sifre_degis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kullanici_sifre_degis.Designer.cs">
+      <DependentUpon>Kullanici_sifre_degis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kullanici_sifre_degistirme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kullanici_sifre_degistirme.Designer.cs">
+      <DependentUpon>Kullanici_sifre_degistirme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kullanici_silme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kullanici_silme.Designer.cs">
+      <DependentUpon>Kullanici_silme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kullanici_yetkileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kullanici_yetkileri.Designer.cs">
+      <DependentUpon>Kullanici_yetkileri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Müşteri_Anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Müşteri_Anasayfa.Designer.cs">
+      <DependentUpon>Müşteri_Anasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="adminyetkileri.resx">
+      <DependentUpon>adminyetkileri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Arac_ekle.resx">
+      <DependentUpon>Arac_ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="arac_guncelleme.resx">
+      <DependentUpon>arac_guncelleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Arac_silme.resx">
+      <DependentUpon>Arac_silme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kayit_bilgileri.resx">
+      <DependentUpon>kayit_bilgileri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kullanici_ad_degis.resx">
+      <DependentUpon>Kullanici_ad_degis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kullanici_eklemecs.resx">
+      <DependentUpon>Kullanici_eklemecs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kullanici_sifre_degis.resx">
+      <DependentUpon>Kullanici_sifre_degis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kullanici_sifre_degistirme.resx">
+      <DependentUpon>Kullanici_sifre_degistirme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kullanici_silme.resx">
+      <DependentUpon>Kullanici_silme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kullanici_yetkileri.resx">
+      <DependentUpon>Kullanici_yetkileri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Müşteri_Anasayfa.resx">
+      <DependentUpon>Müşteri_Anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bmw.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
